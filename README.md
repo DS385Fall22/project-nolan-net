@@ -1,15 +1,10 @@
 # project
 
-Please place your Jupyter notebook in this directory, so that other students can
-access your presentation materials.  This repository should contain all
-appropriate code to follow along with your presentation This way, your fellow
-students will be able to run your code on their personal machines during your
-presentation.
+LINKS:
 
-If you are not preparing a Jupyter notebook for your topic, please use this
-repository in an appropriate way: put your Python package in here, or put links
-to your created work for your project in the README, or setup this repository so
-that students can file issues and/or make pull requests, or whatever.
+Large AITA Dataset: https://drive.google.com/file/d/17TQUaK5kxu_8FU0FvZImsH3_hpwutQRr/view?usp=sharing
+    
+To get the most updated version check this link and follow the steps: https://iterative.ai/blog/a-public-reddit-dataset
 
-This repository is public, such that your fellow students can clone the
-repository.
+Positive Words: https://gist.github.com/mkulakowski2/4289441 By mkulakowski2
+Negative Words: https://gist.github.com/mkulakowski2/4289437 By mkulakowski2
